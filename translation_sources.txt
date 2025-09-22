@@ -1,0 +1,2 @@
+阿里巴巴翻译|alibaba_free|{}
+Google|google_free|{"region":"EN","host":"https://translate.google.com","concurrent":999}
